@@ -1,0 +1,25 @@
+﻿  main.cpp
+C:\Users\Arthur Bueno Stein\Desktop\Arthur\Unisinos\2023\Processamento Gráfico\processamento-grafico-tgb-main\External\GL_UTILS\gl_utils.cpp(175,26): warning C4267: '+=': conversão de 'size_t' para 'int', possível perda de dados
+C:\Users\Arthur Bueno Stein\Desktop\Arthur\Unisinos\2023\Processamento Gráfico\processamento-grafico-tgb-main\External\CLASSES\DiamondView.h(20,18): warning C4244: '=': conversão de 'float' para 'int', possível perda de dados
+C:\Users\Arthur Bueno Stein\Desktop\Arthur\Unisinos\2023\Processamento Gráfico\processamento-grafico-tgb-main\External\CLASSES\DiamondView.h(21,18): warning C4244: '=': conversão de 'float' para 'int', possível perda de dados
+C:\Users\Arthur Bueno Stein\Desktop\Arthur\Unisinos\2023\Processamento Gráfico\processamento-grafico-tgb-main\External\CLASSES\SlideView.h(27,18): warning C4244: '=': conversão de 'float' para 'int', possível perda de dados
+C:\Users\Arthur Bueno Stein\Desktop\Arthur\Unisinos\2023\Processamento Gráfico\processamento-grafico-tgb-main\External\CLASSES\SlideView.h(28,32): warning C4244: '=': conversão de 'float' para 'int', possível perda de dados
+C:\Users\Arthur Bueno Stein\Desktop\Arthur\Unisinos\2023\Processamento Gráfico\processamento-grafico-tgb-main\UnisinosCG\ltMath.h(87,16): warning C4244: 'inicializando': conversão de 'double' para 'float', possível perda de dados
+C:\Users\Arthur Bueno Stein\Desktop\Arthur\Unisinos\2023\Processamento Gráfico\processamento-grafico-tgb-main\UnisinosCG\ltMath.h(92,16): warning C4244: 'inicializando': conversão de 'double' para 'float', possível perda de dados
+C:\Users\Arthur Bueno Stein\Desktop\Arthur\Unisinos\2023\Processamento Gráfico\processamento-grafico-tgb-main\UnisinosCG\ltMath.h(93,16): warning C4244: 'inicializando': conversão de 'double' para 'float', possível perda de dados
+C:\Users\Arthur Bueno Stein\Desktop\Arthur\Unisinos\2023\Processamento Gráfico\processamento-grafico-tgb-main\UnisinosCG\main.cpp(106,9): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+C:\Users\Arthur Bueno Stein\Desktop\Arthur\Unisinos\2023\Processamento Gráfico\processamento-grafico-tgb-main\UnisinosCG\main.cpp(107,9): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+C:\Users\Arthur Bueno Stein\Desktop\Arthur\Unisinos\2023\Processamento Gráfico\processamento-grafico-tgb-main\UnisinosCG\main.cpp(400,17): warning C4244: 'inicializando': conversão de 'double' para 'float', possível perda de dados
+C:\Users\Arthur Bueno Stein\Desktop\Arthur\Unisinos\2023\Processamento Gráfico\processamento-grafico-tgb-main\UnisinosCG\main.cpp(450,65): warning C4244: 'argumento': conversão de 'double' para 'GLfloat', possível perda de dados
+C:\Users\Arthur Bueno Stein\Desktop\Arthur\Unisinos\2023\Processamento Gráfico\processamento-grafico-tgb-main\UnisinosCG\main.cpp(454,77): warning C4244: 'argumento': conversão de 'double' para 'GLfloat', possível perda de dados
+C:\Users\Arthur Bueno Stein\Desktop\Arthur\Unisinos\2023\Processamento Gráfico\processamento-grafico-tgb-main\UnisinosCG\main.cpp(484,65): warning C4244: 'argumento': conversão de 'double' para 'GLfloat', possível perda de dados
+C:\Users\Arthur Bueno Stein\Desktop\Arthur\Unisinos\2023\Processamento Gráfico\processamento-grafico-tgb-main\UnisinosCG\main.cpp(485,65): warning C4244: 'argumento': conversão de 'double' para 'GLfloat', possível perda de dados
+C:\Users\Arthur Bueno Stein\Desktop\Arthur\Unisinos\2023\Processamento Gráfico\processamento-grafico-tgb-main\UnisinosCG\main.cpp(488,66): warning C4305: 'argumento': truncamento de 'double' para 'GLfloat'
+C:\Users\Arthur Bueno Stein\Desktop\Arthur\Unisinos\2023\Processamento Gráfico\processamento-grafico-tgb-main\UnisinosCG\ltMath.h(52): warning C4172: retornando o endereço da variável local ou temporário: v
+  SOIL.lib(stb_image_aug.obj) : MSIL .netmodule ou módulo compilado com /GL encontrado; reiniciando link com /LTCG; adicione /LTCG ao link da linha de comando para melhorar performance do vinculador
+LINK : warning LNK4075: ignorando '/INCREMENTAL' devido a especificação '/LTCG'
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflita com uso de outras bibliotecas; use /NODEFAULTLIB:library
+  Gerando código
+  Finalizada a geração de código
+SOIL.lib(stb_image_aug.obj) : warning LNK4099: PDB '' não foi encontrado 'SOIL.lib(stb_image_aug.obj)' ou no ''; vinculando objeto quando quando sem nenhuma informação de depuração
+  UnisinosCG.vcxproj -> C:\Users\Arthur Bueno Stein\Desktop\Arthur\Unisinos\2023\Processamento Gráfico\processamento-grafico-tgb-main\x64\Debug\UnisinosCG.exe
